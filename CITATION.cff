@@ -14,3 +14,4 @@ version: 1.0.0
 date-released: "2026-05-03"
 repository-code: "https://github.com/coconutdrop/grid-resolving-polynomial-computations"
 license: MIT
+doi: 10.5281/zenodo.XXXXXXX
