@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for Exhaustive Grid Resolving-Polynomial Computations"
+authors:
+  - family-names: Graia
+    given-names: Omar
+  - family-names: Huang
+    given-names: Caroline
+  - family-names: Zhou
+    given-names: Anna
+  - family-names: Geneson
+    given-names: Jesse
+version: 1.0.0
+date-released: "2026-05-03"
+repository-code: "https://github.com/coconutdrop/grid-resolving-polynomial-computations"
+license: MIT
