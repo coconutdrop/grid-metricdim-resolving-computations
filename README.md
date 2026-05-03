@@ -23,3 +23,9 @@ and compares it coefficientwise with the canonical long-side set \(C_k\).
 
 ```bash
 python scripts/run_small_grid_tests.py
+
+## Archived release
+
+The archived version of this repository is available on Zenodo:
+
+https://doi.org/10.5281/zenodo.XXXXXXX
